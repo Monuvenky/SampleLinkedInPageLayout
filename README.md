@@ -1,4 +1,4 @@
-Code written in HTML and CSS
+Code written in HTML 
 Code written by Monisha Venkatesh
 
 ProjectName : Sample LinkedIn Page Layout
